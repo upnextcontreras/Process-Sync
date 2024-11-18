@@ -55,7 +55,7 @@ The program is  in C/C++ and uses POSIX threads, semaphores, and mutex locks to 
      ```
 
 5. **Screenshot**:
-<img width="271" alt="output351" src="https://github.com/user-attachments/assets/1264d712-d348-4709-b936-3c1c48aabebd">
+<img length= "300" width="271" alt="output351" src="https://github.com/user-attachments/assets/1264d712-d348-4709-b936-3c1c48aabebd">
 
 ---
 
