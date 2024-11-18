@@ -4,9 +4,9 @@
 
 | Name                  | Section # | Email Address               |
 |-----------------------|-----------|-----------------------------|
-| Christopher Contreras | 351-02    | cdcontreras139@gmail.com    |
-| Alexie Gonzalez       | 351-02    | alexiegonzalez@example.com  |
-| Britney Lopez         | 351-02    | britneylopez@example.com    |
+| Christopher Contreras | 351-02    | cdc17507@csu.fullerton.edu  |
+| Alexie Gonzalez       | 351-02    | alexieg3@csu.fullerton.edu  |
+| Britney Lopez         | 351-02    | bnlopez2@csu.fullerton.edu  |
 
 ---
 
@@ -14,7 +14,7 @@
 
 This program simulates a scenario where students seek help from a teaching assistant (TA) during office hours. The TA assists one student at a time, with limited seating for waiting students. If no seats are available, students return later.
 
-The program is implemented in C/C++ and uses POSIX threads, semaphores, and mutex locks to ensure proper synchronization between the TA and students.
+The program is  in C/C++ and uses POSIX threads, semaphores, and mutex locks to make sure for proper synchronization between the TA and students.
 
 ---
 
@@ -102,7 +102,7 @@ Each team member contributed equally by focusing on their assigned section, and 
 
 This program simulates a scenario where students seek help from a teaching assistant (TA) during office hours. The TA assists one student at a time, with limited seating for waiting students. If no seats are available, students return later.
 
-The program is implemented in C/C++ and uses POSIX threads, semaphores, and mutex locks to ensure proper synchronization between the TA and students.
+The program is  in C/C++ and uses POSIX threads, semaphores, and mutex locks to make sure for proper synchronization between the TA and students.
 
 ---
 
