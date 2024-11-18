@@ -21,27 +21,17 @@ The program is  in C/C++ and uses POSIX threads, semaphores, and mutex locks to 
 ### How to Run the Program
 
 1. **Platform**:  
-   - This program is designed to run on **Linux** using the **GCC compiler**.
+   - This program is designed to run on **Linux** using the **G++ compiler**.
 
 2. **Compilation**:
    - Open a terminal in the directory containing the program files.
    - Compile the program using the following command:
      ```bash
-     gcc main.c -lpthread -o sleeping_ta
+     g++ main.cpp -o main
+     ./main
      ```
-
-3. **Execution**:
-   - Run the program with the desired number of student threads:
-     ```bash
-     ./sleeping_ta <number_of_students>
-     ```
-   - If `<number_of_students>` is not specified, the program defaults to 5 student threads.
-   - Example:
-     ```bash
-     ./sleeping_ta 8
-     ```
-
-4. **Testing**:
+     
+3. **Testing**:
    - The program outputs the sequence of events as students arrive, sit, get help, or leave.
    - **Example Output**:
      ```
@@ -54,8 +44,9 @@ The program is  in C/C++ and uses POSIX threads, semaphores, and mutex locks to 
      ...
      ```
 
-5. **Screenshot**:
-<img length= "500" width="400" alt="output351" src="https://github.com/user-attachments/assets/1264d712-d348-4709-b936-3c1c48aabebd">
+4. **Screenshot**:
+      
+   <img length= "500" width="400" alt="output351" src="https://github.com/user-attachments/assets/1264d712-d348-4709-b936-3c1c48aabebd">
 
 ---
 
