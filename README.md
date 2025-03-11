@@ -79,3 +79,7 @@ Our team coordinated efforts by:
 Each team member contributed equally by focusing on their assigned section, and we worked together to troubleshoot synchronization and compilation issues.
 
 The program is  in C/C++ and uses POSIX threads, semaphores, and mutex locks to make sure for proper synchronization between the TA and students.
+
+## Disclaimer
+
+I am not maintaining this code; it is just for learning and educational purposes.
