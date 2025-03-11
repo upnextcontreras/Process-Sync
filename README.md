@@ -80,6 +80,6 @@ Each team member contributed equally by focusing on their assigned section, and 
 
 The program is  in C/C++ and uses POSIX threads, semaphores, and mutex locks to make sure for proper synchronization between the TA and students.
 
-## Disclaimer
+### Disclaimer
 
 I am not maintaining this code; it is just for learning and educational purposes.
